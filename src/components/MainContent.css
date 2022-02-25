@@ -1,0 +1,31 @@
+.mainContentLinkWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.links {
+    color: inherit;
+}
+
+.noRoutePlaceholder {
+    text-align: center;
+    padding-top: 10%;
+}
+
+.mainContentLink {
+    width: 80%;
+    margin: auto;
+    color: black;
+    text-align: center;
+}
+
+.mainContentLink:hover {
+    color: grey;
+}
+
+.activeMainContentLink {
+    color: #000080;
+    text-decoration: underline;
+}

@@ -1,0 +1,1 @@
+export const GRID_ROW_ID = "$_GRID_ROW_ID_$"

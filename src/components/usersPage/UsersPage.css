@@ -1,0 +1,9 @@
+.usersPage{
+    display: flex;
+    flex-direction: column;
+}
+
+.newAdminButton{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}

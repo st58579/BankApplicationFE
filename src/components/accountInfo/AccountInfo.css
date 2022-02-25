@@ -1,0 +1,13 @@
+.accountInfo{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10%;
+}
+
+.accountInfoLink{
+    width: 50%;
+}
+
+.separator{
+    margin-bottom: 3%;
+}

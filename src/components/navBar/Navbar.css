@@ -1,0 +1,80 @@
+.navbarWrapper{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.registrationLoginLinks{
+    display: flex;
+    flex-direction: row-reverse;
+    color: black;
+}
+
+.blackLink{
+    color: black;
+}
+
+.navbar {
+    width: 100%;
+    min-height: 6vh;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: navy;
+    transition: all 0.7s ease-in;
+    z-index: 10;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.shopName {
+    display: flex;
+    width: 20%;
+    align-items: center;
+}
+
+.searchBar {
+    background-color: #f3f3f3;
+    margin: 1%;
+    width: 30%;
+}
+
+.statusBar {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: center;
+    color: white;
+    width: 30%;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 5px;
+    column-gap: 20px;
+}
+
+.gutter {
+    width: 5%;
+}
+
+.scrolled {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.logo img {
+    width: 50px;
+}
+
+.titleLink{
+    margin-left: 15px;
+    width: 100%;
+}

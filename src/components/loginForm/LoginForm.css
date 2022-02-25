@@ -1,0 +1,17 @@
+.loginForm{
+    background-color: white;
+    border-radius: 4px;
+    min-height: 620px;
+    color: black;
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;;
+}
+
+.buttonWrapper{
+    display: flex;
+    justify-content: center;
+}

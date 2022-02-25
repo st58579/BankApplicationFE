@@ -1,0 +1,12 @@
+.fileUploadField {
+    margin: 3%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: center;
+}
+
+.fileLabel {
+    margin-left: 5%;
+}
